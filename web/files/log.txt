@@ -1,0 +1,6 @@
+20.12.2015 12:12:11::::notice::System starts
+20.12.2015 12:13:14::UserProfile::notice::#1001::Authentification failed
+20.12.2015 12:14:22::UserProfile::notice::#1001::User resets password
+20.12.2015 12:14:23::EmailSender::warning::@/var/www/cls/EmailSender.php:135::Send failed
+20.12.2015 12:14:23::SmsSender::error::@/var/www/cls/SmsSender.php:643::Operator not setup
+30.04.2016 21:04:35::SystemError::error::@/var/www/logparser/controllers/SiteController.php:26::Test error
